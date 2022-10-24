@@ -7,9 +7,9 @@ import {Route, Routes} from 'react-router-dom';
 function App() {
   return (
     <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path="/page1" element={<WeatherMain />} />
-      <Route path="/page2" element={<WeatherMain2 />} />
+      <Route path="/PNU_React_project6_weather" element={<Home />} />
+      <Route path="/PNU_React_project6_weather/page1" element={<WeatherMain />} />
+      <Route path="/PNU_React_project6_weather/page2" element={<WeatherMain2 />} />
     </Routes>
   );
 }
