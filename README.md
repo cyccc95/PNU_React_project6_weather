@@ -1,1 +1,1 @@
-# PNU_React_project6_weather
+# React_weather
