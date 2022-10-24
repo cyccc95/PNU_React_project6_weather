@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PNU_React_project6_weather/static/css/main.e6c13ad2.css",
-    "main.js": "/PNU_React_project6_weather/static/js/main.601ac9d2.js",
+    "main.css": "/PNU_React_project6_weather/static/css/main.fb08cdf6.css",
+    "main.js": "/PNU_React_project6_weather/static/js/main.bb8e0aea.js",
     "static/js/787.6c68306e.chunk.js": "/PNU_React_project6_weather/static/js/787.6c68306e.chunk.js",
     "index.html": "/PNU_React_project6_weather/index.html",
-    "main.e6c13ad2.css.map": "/PNU_React_project6_weather/static/css/main.e6c13ad2.css.map",
-    "main.601ac9d2.js.map": "/PNU_React_project6_weather/static/js/main.601ac9d2.js.map",
+    "main.fb08cdf6.css.map": "/PNU_React_project6_weather/static/css/main.fb08cdf6.css.map",
+    "main.bb8e0aea.js.map": "/PNU_React_project6_weather/static/js/main.bb8e0aea.js.map",
     "787.6c68306e.chunk.js.map": "/PNU_React_project6_weather/static/js/787.6c68306e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.601ac9d2.js"
+    "static/css/main.fb08cdf6.css",
+    "static/js/main.bb8e0aea.js"
   ]
 }
