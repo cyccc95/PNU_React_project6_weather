@@ -5,7 +5,7 @@ function HomeButton(){
     <>
       <div>
         <button className="toHomeButton">
-          <Link to="https://cyccc95.github.io/PNU_React_project6_weather/" style={{ color: 'inherit', textDecoration: 'inherit'}}>
+          <Link to="/" style={{ color: 'inherit', textDecoration: 'inherit'}}>
             홈
           </Link>
         </button>
